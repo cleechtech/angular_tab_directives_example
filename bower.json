@@ -1,0 +1,19 @@
+{
+  "name": "angular_tab_directives_example",
+  "version": "0.0.0",
+  "homepage": "https://github.com/itsClay/angular_tab_directives_example",
+  "authors": [
+    "Connor Leech <connorleech@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}
